@@ -5,7 +5,7 @@ I created this project as a university requirement, focusing on using Quantitati
 ![image](https://github.com/SaraMKorayem/Machine-Learning-QSAR-Project/assets/169392560/8d68b628-fff7-4de1-b07c-ed4d2b187c0b)
 
 
-The QSAR modeling process in this project covered several steps:
+The QSAR modeling process in this project covered the following steps:
 
 **Data Collection and Preprocessing:** Data is collected from the ChEMBL database, focusing on the target protein PPARγ associated with diabetes. Missing data is handled by removing incomplete entries.
 
