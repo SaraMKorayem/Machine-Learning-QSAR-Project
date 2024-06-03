@@ -1,5 +1,6 @@
 # Machine-Learning-QSAR-Project 🔻
 I created this project as a university requirement, focusing on using Quantitative Structure-Activity Relationship (QSAR) as a computational biology approach in my drug discovery journey. 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.technologynetworks.com%2Fdrug-discovery%2Farticles%2Fscreening-strategies-used-in-drug-discovery-353812&psig=AOvVaw0qUTaT3HQpNhkgz8qOU-AF&ust=1717512221514000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj_juHVv4YDFQAAAAAdAAAAABAE 
 
 The QSAR modeling process in this project covered several steps:
 
