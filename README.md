@@ -1,6 +1,9 @@
 ### Machine-Learning-QSAR-Project 🔻
 I created this project as a university requirement, focusing on using Quantitative Structure-Activity Relationship (QSAR) as a computational biology approach in my drug discovery journey. 
 
+**Explanation viseo:** https://nileuniversity-my.sharepoint.com/:v:/g/personal/s_mohamed2135_nu_edu_eg/ESC4lXvkVO1Mk11SYjfoTeYBChcmPVwi4LvQPGph4GqHTw
+
+
 ## **QSAR Modeling of PPARγ Biological Data: Random Forest Model Deployment and pIC50 Prediction Using ChEMBL IDs and SMILES**
 ![image](https://github.com/SaraMKorayem/Machine-Learning-QSAR-Project/assets/169392560/8d68b628-fff7-4de1-b07c-ed4d2b187c0b)
 
@@ -21,6 +24,6 @@ The QSAR modeling process in this project covered the following steps:
 
 **Model Deployment:** The final model is trained, tuned using GridSearchCV, and saved using joblib and pickle libraries. The model is deployed using Streamlit.
 
-The QSAR project report is included and contains an abstract, introduction, methodology, results, and conclusion.
+The QSAR project report is included and contains an abstract, introduction, methodology, results, and discussion.
 
 This project was inspired and adapted from professor Chanin Nantasenamat:   (YT) Data Professor (http://youtube.com/dataprofessor)
